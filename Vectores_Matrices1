@@ -1,0 +1,30 @@
+second_class
+
+A =
+
+     1     2    -3     4    -5
+
+Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('vertcat')" style="font-weight:bold">vertcat</a>
+Dimensions of arrays being concatenated are not consistent.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('second_class', '/home/vier/dev/numerical_methods/second_class.m', 3)" style="font-weight:bold">second_class</a> (<a href="matlab: opentoline('/home/vier/dev/numerical_methods/second_class.m',3,0)">line 3</a>)
+A = [1, 2, -3, 4, -5; 1,3,5,3] % matriz de 1x5 -- vector
+
+
+A =
+
+     1     2    -3     4    -5
+     1     3     5     3     1
+
+clc
+
+A =
+
+     1     2    -3     4    -5
+     1     3     5     3     1
+
+
+ans =
+
+     1
+
