@@ -1,4 +1,0 @@
-clc, clearvars;
-
-
-fdsf;

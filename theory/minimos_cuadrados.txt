@@ -1,0 +1,6 @@
+1. Regresión  lineal
+S = {(x,y) pertenece a R²}
+funcion en forma y = mx+b que interpola S;
+
+m = (sum(i=1; n) (xi * yi) - (sum(1,n) xi * sum (1, n) yi)/n)/:
+
